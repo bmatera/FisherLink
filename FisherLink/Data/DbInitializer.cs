@@ -10,6 +10,7 @@ namespace FisherLink.Data
         {
             context.Database.EnsureCreated();
             //
+            //
             // Look for any students.
             if (context.Student.Any())
             {
