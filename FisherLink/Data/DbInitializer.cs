@@ -9,7 +9,7 @@ namespace FisherLink.Data
         public static void Initialize(ApplicationDbContext context)
         {
             context.Database.EnsureCreated();
-            //
+            // test01 @ 7:52
             //
             // Look for any students.
             if (context.Student.Any())
