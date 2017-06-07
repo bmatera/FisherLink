@@ -79,8 +79,8 @@ namespace FisherLink
             // Facebook needs to be started before UseMvc.
             app.UseFacebookAuthentication(new FacebookOptions()
             {
-                AppId = Configuration["Authentication:Facebook:AppId"],
-                AppSecret = Configuration["Authentication:Facebook:AppSecret"]
+                AppId = "1888789301367451",
+                AppSecret = "8e18e88dd0e758b2670c37f5157ccb52"
             });
 
             app.UseMvc(routes =>

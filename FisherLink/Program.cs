@@ -14,8 +14,10 @@ namespace FisherLink
             var host = new WebHostBuilder()
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
+                .UseSetting("detailedErrors", "true")  //debug setting
                 .UseIISIntegration()
                 .UseStartup<Startup>()
+                .CaptureStartupErrors(true)  //debug setting
                 .UseApplicationInsights()
                 .Build();
 

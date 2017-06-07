@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAODQz4fajNE2uFrdqsXAInwAAAAACAAAAAAADZgAAwAAAABAAAAD+vOu97nSEhQVGbbqbRzotAAAAAASAAACgAAAAEAAAAA22iHjAW60ABbkIGH3Z4A6AAAAA9CX2mC9dpFMA/m1HIkIY+EKBGnr+KtjVLtMBOYb4rwNZDvsA2ec1/kN4wOe+l2tW2Ktc/RdW8jAHYaby88JrMGREpNq4AFW250vgUG+VF2C0X0RyeTioHOCmSSHI9wjNSVBV/284MRhyfVNumTmftECblee3aJs4Azaswxg4MDIUAAAAy1DtOQAHXqpQkZl9epOUMFLDX+U=</EncryptedPassword>
+    <_NewBackgroundProfile>False</_NewBackgroundProfile>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=61ec3c84-e769-4304-9a33-a7880131f090.sqlserver.sequelizer.com;Database=db61ec3c84e76943049a33a7880131f090;User ID=wbstbmjskylfocgz;Password=PLoUQbryQMyUdCdFmAZ4bfEurb4EVwqH2tJAWCB2SueydKM644bhos3Jg3CPgUKs;</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
