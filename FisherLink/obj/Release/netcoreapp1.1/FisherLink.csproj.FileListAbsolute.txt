@@ -3,7 +3,6 @@ C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherLink\FisherLink\bi
 C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherLink\FisherLink\bin\Release\netcoreapp1.1\FisherLink.runtimeconfig.dev.json
 C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherLink\FisherLink\bin\Release\netcoreapp1.1\FisherLink.dll
 C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherLink\FisherLink\bin\Release\netcoreapp1.1\FisherLink.pdb
-C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherLink\FisherLink\obj\Release\netcoreapp1.1\FisherLink.csprojResolveAssemblyReference.cache
 C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherLink\FisherLink\obj\Release\netcoreapp1.1\UserSecretsAssemblyInfo.cs
 C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherLink\FisherLink\obj\Release\netcoreapp1.1\FisherLink.AssemblyInfo.cs
 C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherLink\FisherLink\obj\Release\netcoreapp1.1\FisherLink.dll
